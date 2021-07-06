@@ -29,3 +29,5 @@ The protein string encoded by s.
 AUGGCCAUGGCGCCCAGAACUGAGAUCAAUAGUACCCGUAUUAACGGGUGA
 ### Sample Output
 MAMAPRTEINSTRING
+
+URL to the Question: http://rosalind.info/problems/prot/
